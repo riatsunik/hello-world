@@ -1,2 +1,5 @@
 # hello-world
-first repository 
+
+Hello, 
+
+I'm here to contribute to the data-science projects.
